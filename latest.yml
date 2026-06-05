@@ -1,11 +1,11 @@
-version: 0.1.15
-releaseDate: 2026-06-05T12:15:58.918Z
+version: 0.1.16
+releaseDate: 2026-06-05T12:22:13.531Z
 files:
-  - url: WMS-Workspace-Setup-v0.1.15.exe
-    sha512: vL1nkKWDGSeFVOWyD4GKsJ3N8evX1lfUqv7aNIlFIAdbYNJJiP9eltFzes7NNeRqE4TZVRAXzlfMNq08tdByBA==
-    size: 83072171
-  - url: WMS-Workspace-Setup-v0.1.15.exe.blockmap
-    sha512: Bp6DeZ7braxYdKwu7jN0Ady+JVVi9Z7gvA6PzkEN93KhRs7tvZkIUaO9HawwGzE7wOyS/j0b6CHerPGQIQ6X6A==
-    size: 87184
-path: WMS-Workspace-Setup-v0.1.15.exe
-sha512: vL1nkKWDGSeFVOWyD4GKsJ3N8evX1lfUqv7aNIlFIAdbYNJJiP9eltFzes7NNeRqE4TZVRAXzlfMNq08tdByBA==
+  - url: WMS-Workspace-Setup-v0.1.16.exe
+    sha512: l48URbTWtj0S+1nEI0h151/cQnTYebktVBIjT3lg9n1BrSHOwajZb+QT30ZPYpl6wKbnRAo/nxA0CsxnAbJIrQ==
+    size: 83072187
+  - url: WMS-Workspace-Setup-v0.1.16.exe.blockmap
+    sha512: Ucmfj412ZbD3a4enovH/YIoAaW54UDGxm6tO+x11xV66XMpRsMydEEmfgEQ4XsMeaejRRQHATcAMrCX+2Z1sJA==
+    size: 87256
+path: WMS-Workspace-Setup-v0.1.16.exe
+sha512: l48URbTWtj0S+1nEI0h151/cQnTYebktVBIjT3lg9n1BrSHOwajZb+QT30ZPYpl6wKbnRAo/nxA0CsxnAbJIrQ==
